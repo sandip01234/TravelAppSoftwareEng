@@ -1,4 +1,4 @@
-package com.example.Travel.Application.Security;
+package com.example.Travel.Application.Services;
 
 /**
  * ███████╗ █████╗ ███╗   ██╗██████╗ ██╗██████╗
