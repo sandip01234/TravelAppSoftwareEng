@@ -3,7 +3,7 @@ package com.example.Travel.Application.Controller;
 import com.example.Travel.Application.Dto.LoginRequest;
 import com.example.Travel.Application.Dto.RegisterRequest;
 import com.example.Travel.Application.Services.UserService;
-import com.example.Travel.Application.security.JwtTokenProvider;
+import com.example.Travel.Application.Security.JwtTokenProvider;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.springframework.http.ResponseEntity;
