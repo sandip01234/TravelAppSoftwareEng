@@ -1,4 +1,4 @@
-package Dto;
+package com.example.Travel.Application.Dto;
 
 import lombok.Data;
 
