@@ -11,6 +11,12 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+/**
+ * DestinationController handles CRUD operations for travel destinations.
+ * All endpoints in this controller are protected by JWT authentication
+ * (defined via @SecurityRequirement).
+ */
+
 @RestController
 @RequestMapping("/api/destinations")
 @Tag(name = "Destinations", description = "API for managing travel destinations")
